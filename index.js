@@ -11,5 +11,5 @@ function addingEventListener() {
 }
 
 // Call the function to attach the event listener
-addingEventListener();
+console.log(addingEventListener());
 
